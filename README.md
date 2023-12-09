@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/chand-stack/dragon-news-nextjs/main/src/asstets/Blue%20Purple%20Modern%20Neon%20Bright%20Coming%20Soon%20Facebook%20Cover.png" />
 </a>
 <h3 align="left">Chand Rahman</h3>
-<h4 align="left">✋MERN Stack Developer | 💻 Currently diving deep into the world of full-stack development, I'm on a mission to blend innovation with functionality. My vision is to contribute to cutting-edge projects that make a real impact, pushing the boundaries of what's possible in the digital realm.</h4> <br/> <br/>
+<h4 align="left">✋MERN Stack Developer | 💻 Currently diving deep into the world of full-stack development, I'm on a mission to blend innovation with functionality. My vision is to contribute to cutting-edge projects that make a real impact, pushing the boundaries of what's possible in the digital realm.</h4>
 
 ## :chart_with_upwards_trend: Current State
 
@@ -16,7 +16,6 @@
 <a href="https://fb.com/chand.stack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chand.stack" height="60" width="40" /></a>
 <a href="https://instagram.com/chand.stack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chand.stack" height="60" width="40" /></a>
 </p>
-<br/>
 
 ## :eyes: overview
 - 🌱 I’m currently learning **nextjs**
@@ -29,8 +28,6 @@
 
 - ⚡ Fun fact **I once debugged a tricky issue by literally turning it off and on again. Classic, but it worked!**
 
-<br/>
-<br/>
 
 ## :computer: Languages and Tools
 <p align="center">
@@ -41,8 +38,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chand-stack&show_icons=true&locale=en&layout=compact" alt="chand-stack" /></p>
 
-<br/> 
-<br/>
 
 ## 🛠️Technology Stack
 
