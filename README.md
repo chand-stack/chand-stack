@@ -1,5 +1,5 @@
 <a href="https://www.facebook.com/mirhussainmurtaza/">
-<img src="https://raw.githubusercontent.com/chand-stack/dragon-news-nextjs/main/src/asstets/Blue%20Purple%20Modern%20Neon%20Bright%20Coming%20Soon%20Facebook%20Cover.png" />
+<img src="https://raw.githubusercontent.com/chand-stack/dragon-news-nextjs/main/src/asstets/bgforgithub.png" />
 </a>
 <h3 align="left">Chand Rahman</h3>
 <h4 align="left">✋MERN Stack Developer | 💻 Currently diving deep into the world of full-stack development, I'm on a mission to blend innovation with functionality. My vision is to contribute to cutting-edge projects that make a real impact, pushing the boundaries of what's possible in the digital realm.</h4>
