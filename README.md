@@ -1,27 +1,103 @@
-<h3 align="center">Mern Stack Developer</h3>
+<a href="https://www.facebook.com/mirhussainmurtaza/">
+<img src="https://raw.githubusercontent.com/chand-stack/dragon-news-nextjs/main/src/asstets/Blue%20Purple%20Modern%20Neon%20Bright%20Coming%20Soon%20Facebook%20Cover.png" />
+</a>
+<h3 align="left">Chand Rahman</h3>
+<h4 align="left">✋MERN Stack Developer | 💻 Currently diving deep into the world of full-stack development, I'm on a mission to blend innovation with functionality. My vision is to contribute to cutting-edge projects that make a real impact, pushing the boundaries of what's possible in the digital realm.</h4> <br/> <br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chand-stack" alt="chand-stack" /></a> </p>
+## :chart_with_upwards_trend: Current State
 
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=chand-stack&theme=blue-navy&border_radius=4.6" alt="GitHub Streak" /></a>
+</p>
+
+## :mailbox: Connect with me
+<p align="left">
+<a href="https://linkedin.com/in/chand-rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chand-rahman" height="60" width="40" /></a>
+<a href="https://fb.com/chand.stack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chand.stack" height="60" width="40" /></a>
+<a href="https://instagram.com/chand.stack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chand.stack" height="60" width="40" /></a>
+</p>
+<br/>
+
+## :eyes: overview
 - 🌱 I’m currently learning **nextjs**
 
 - 💬 Ask me about **reactjs, nodejs, mongodb, expressjs**
 
-- 📫 How to reach me **chandrahman303@gmail.com**
+- 📫 Reach me at my Gmail **chandrahman303@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1EW2DRHUmZO9eSzficWImpFBtlVBfvGkU/view?usp=drive_link)
+- 📄 Know about my experiences in [Resume](https://drive.google.com/file/d/1EW2DRHUmZO9eSzficWImpFBtlVBfvGkU/view?usp=drive_link)
 
 - ⚡ Fun fact **I once debugged a tricky issue by literally turning it off and on again. Classic, but it worked!**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/chand-rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chand-rahman" height="30" width="40" /></a>
-<a href="https://fb.com/chand.stack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chand.stack" height="30" width="40" /></a>
-<a href="https://instagram.com/chand.stack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chand.stack" height="30" width="40" /></a>
+<br/>
+<br/>
+
+## :computer: Languages and Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,mongodb,express,firebase,nodejs,vscode,vercel,stackoverflow,github,figma&theme=light" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chand-stack&show_icons=true&locale=en&layout=compact" alt="chand-stack" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chand-stack&show_icons=true&locale=en&layout=compact" alt="chand-stack" /></p>
+<br/> 
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chand-stack&show_icons=true&locale=en" alt="chand-stack" /></p>
+## 🛠️Technology Stack
+
+### Frontend
+- **React:** Building interactive user interfaces.
+- **Tailwind CSS with Daisy UI:** Crafting responsive and stylish designs.
+- **Firebase Authentication:** Securing user authentication.
+
+### Backend
+- **Node.js:** JavaScript runtime for server-side development.
+- **Express.js:** Web application framework for Node.js.
+- **MongoDB with Mongoose:** Database and object modeling for Node.js.
+- **Git/GitHub:** Version control and collaborative development.
+- **VS Code:** Integrated development environment for efficient coding.
+
+
+
+## 🧑‍💻Projects :
+#### 🧑‍⚕️PrimeDiag (Diagnostic Center Website)
+#### Live Link [PrimeDiag](https://diagnostic-center-7d0eb.web.app/)
+#### admin credentials: 
+gmail: chandrahman@gmail.com
+password: Chand@
+- User-Centric Dashboards:
+Streamlined and user-friendly dashboards empower individuals to effortlessly manage health appointments, access reports, and schedule new tests, enhancing their overall experience. 
+
+- Admin Control Hub:
+Efficient admin tools enable seamless user management, overseeing test bookings, and updating test details. This feature ensures operational excellence and a well-organized diagnostic center.
+
+- Secure Stripe Integration:
+Secure online test bookings with integrated Stripe payments provide users with a trustworthy and convenient experience, establishing reliability in financial transactions for diagnostic services.
+
+#
+
+#### 🧑‍💼JobWave (Job Seeking Website)
+#### Live Link [JOBWAVE](https://uifry-d1f45.web.app)
+
+- Effortless Job Applications:
+Streamlined application process for job seekers, fostering an easy and intuitive experience in submitting applications for potential employment opportunities.
+
+- User-Friendly Job Post Management:
+Empowering employers with a hassle-free platform to post, edit, and delete job listings, ensuring up-to-date and accurate information for potential candidates.
+
+- Dynamic User-Controlled Listings:
+Users have full control over their job listings, allowing employers to efficiently manage and update their hiring needs, contributing to a responsive and agile job marketplace.
+#
+
+#### 🚗WheelsDeal (Diagnostic Center Website)3
+#### Live Link [WHEELSDEAL](https://wheels-deals-513e1.web.app/)
+
+- Firebase Security:
+Trust in a secure experience with Firebase authentication, safeguarding user data and transactions on the platform.
+
+- Effortless Car Transactions:
+Streamlined processes for buyers to easily find and purchase cars, and sellers to effortlessly post, update, and manage their listings.
+
+- User-Controlled Listings:
+Dynamic platform where users have full control over their car listings, allowing for easy updates and deletions, ensuring an up-to-date and responsive marketplace.
