@@ -1,4 +1,4 @@
-<a href="https://www.facebook.com/mirhussainmurtaza/">
+<a href="https://www.linkedin.com/in/chand-rahman/">
 <img src="https://raw.githubusercontent.com/chand-stack/dragon-news-nextjs/main/src/asstets/bgforgithub.png" />
 </a>
 <h3 align="left">Chand Rahman</h3>
