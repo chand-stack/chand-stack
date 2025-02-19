@@ -86,7 +86,7 @@ Empowering employers with a hassle-free platform to post, edit, and delete job l
 Users have full control over their job listings, allowing employers to efficiently manage and update their hiring needs, contributing to a responsive and agile job marketplace.
 #
 
-#### 🚗WheelsDeal (Diagnostic Center Website)3
+#### 🚗WheelsDeal (Car E-Commerce)
 #### Live Link [WHEELSDEAL](https://wheels-deals-513e1.web.app/)
 
 - Firebase Security:
