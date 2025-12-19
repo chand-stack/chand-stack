@@ -18,17 +18,6 @@
 <a href="https://instagram.com/chand.stack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chand.stack" height="60" width="40" /></a>
 </p>
 
-## :eyes: overview
-- 🌱 I’m currently learning **nextjs**
-
-- 💬 Ask me about **reactjs, nodejs, mongodb, expressjs**
-
-- 📫 Reach me at my Gmail **chandrahman303@gmail.com**
-
-- 📄 Know about my experiences in [Resume](https://drive.google.com/file/d/1EW2DRHUmZO9eSzficWImpFBtlVBfvGkU/view?usp=drive_link)
-
-- ⚡ Fun fact **I once debugged a tricky issue by literally turning it off and on again. Classic, but it worked!**
-
 
 ## :computer: Languages and Tools
 <p align="center">
@@ -40,60 +29,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chand-stack&show_icons=true&locale=en&layout=compact" alt="chand-stack" /></p>
 
 
-## 🛠️Technology Stack
-
-### Frontend
-- **React:** Building interactive user interfaces.
-- **Tailwind CSS with Daisy UI:** Crafting responsive and stylish designs.
-- **Firebase Authentication:** Securing user authentication.
-
-### Backend
-- **Node.js:** JavaScript runtime for server-side development.
-- **Express.js:** Web application framework for Node.js.
-- **MongoDB with Mongoose:** Database and object modeling for Node.js.
-- **Git/GitHub:** Version control and collaborative development.
-- **VS Code:** Integrated development environment for efficient coding.
 
 
-
-## 🧑‍💻Projects :
-#### 🧑‍⚕️PrimeDiag (Diagnostic Center Website)
-#### Live Link [PrimeDiag](https://diagnostic-center-7d0eb.web.app/)
-#### admin credentials: 
-gmail: chandrahman@gmail.com
-password: Chand@
-- User-Centric Dashboards:
-Streamlined and user-friendly dashboards empower individuals to effortlessly manage health appointments, access reports, and schedule new tests, enhancing their overall experience. 
-
-- Admin Control Hub:
-Efficient admin tools enable seamless user management, overseeing test bookings, and updating test details. This feature ensures operational excellence and a well-organized diagnostic center.
-
-- Secure Stripe Integration:
-Secure online test bookings with integrated Stripe payments provide users with a trustworthy and convenient experience, establishing reliability in financial transactions for diagnostic services.
-
-#
-
-#### 🧑‍💼JobWave (Job Seeking Website)
-#### Live Link [JOBWAVE](https://uifry-d1f45.web.app)
-
-- Effortless Job Applications:
-Streamlined application process for job seekers, fostering an easy and intuitive experience in submitting applications for potential employment opportunities.
-
-- User-Friendly Job Post Management:
-Empowering employers with a hassle-free platform to post, edit, and delete job listings, ensuring up-to-date and accurate information for potential candidates.
-
-- Dynamic User-Controlled Listings:
-Users have full control over their job listings, allowing employers to efficiently manage and update their hiring needs, contributing to a responsive and agile job marketplace.
-#
-
-#### 🚗WheelsDeal (Car E-Commerce)
-#### Live Link [WHEELSDEAL](https://wheels-deals-513e1.web.app/)
-
-- Firebase Security:
-Trust in a secure experience with Firebase authentication, safeguarding user data and transactions on the platform.
-
-- Effortless Car Transactions:
-Streamlined processes for buyers to easily find and purchase cars, and sellers to effortlessly post, update, and manage their listings.
-
-- User-Controlled Listings:
-Dynamic platform where users have full control over their car listings, allowing for easy updates and deletions, ensuring an up-to-date and responsive marketplace.
