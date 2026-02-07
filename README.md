@@ -3,7 +3,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
 </a>
 
-## :chart_with_upwards_trend: Current State
 
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=chand-stack&theme=blue-navy&border_radius=4.6" alt="GitHub Streak" /></a>
