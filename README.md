@@ -17,14 +17,14 @@
 </p> -->
 
 
-## :computer: Languages and Tools
-<p align="center">
+
+<!-- <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,mongodb,express,firebase,nodejs,vscode,vercel,stackoverflow,github,figma&theme=light" />
   </a>
-</p>
+</p> -->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chand-stack&show_icons=true&locale=en&layout=compact" alt="chand-stack" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chand-stack&show_icons=true&locale=en&layout=compact" alt="chand-stack" /></p> -->
 
 
 
