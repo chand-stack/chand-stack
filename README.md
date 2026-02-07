@@ -9,12 +9,12 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=chand-stack&theme=blue-navy&border_radius=4.6" alt="GitHub Streak" /></a>
 </p>
 
-## :mailbox: Connect with me
-<p align="left">
+
+<!-- <p align="left">
 <a href="https://linkedin.com/in/chand-rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chand-rahman" height="60" width="40" /></a>
 <a href="https://fb.com/chand.stack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chand.stack" height="60" width="40" /></a>
 <a href="https://instagram.com/chand.stack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chand.stack" height="60" width="40" /></a>
-</p>
+</p> -->
 
 
 ## :computer: Languages and Tools
