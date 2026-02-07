@@ -1,6 +1,6 @@
 <a href="https://www.linkedin.com/in/chand-rahman/">
 <!-- <img src="https://raw.githubusercontent.com/chand-stack/dragon-news-nextjs/main/src/asstets/bgforgithub.png" /> -->
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
+  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"/>
 </a>
 
 
