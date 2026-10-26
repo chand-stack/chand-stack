@@ -8,7 +8,7 @@
 
 <p align="center">
   I build and ship production web apps end to end: product, backend, payments, deployment and the monitoring after.<br/>
-  Team lead at a UK web agency · Based in Sylhet, Bangladesh (UTC+6) · <b>Open to remote full-time and contract roles</b>
+  Team lead at a UK web agency · Based in Sylhet, Bangladesh (UTC+6)
 </p>
 
 <p align="center">
