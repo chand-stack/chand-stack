@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://chandrahman.site">
-    <img src="./hero.gif" alt="Chand Rahman — Senior Full-Stack Engineer" width="100%" />
+    <img src="./hero-v2.gif" alt="Chand Rahman — Senior Full-Stack Engineer" width="100%" />
   </a>
 </p>
 
